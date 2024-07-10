@@ -1,0 +1,2 @@
+1. update wg0.conf and all client.conf if public IP has changed
+2. update wg0.conf and all client.conf if IP in config.sh has changed
